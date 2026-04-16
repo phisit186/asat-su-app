@@ -1,0 +1,16 @@
+{
+  "name": "ASAT SU Extension Connect",
+  "short_name": "ASAT SU",
+  "description": "Smart Agricultural Extension Hub",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050607",
+  "theme_color": "#050607",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3061/3061341.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
